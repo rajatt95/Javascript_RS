@@ -7,8 +7,7 @@ Programming | Javascript | VSCode | Variables | If-Else | Loops - For, While, Do
 # Tutor: <a href="https://www.udemy.com/user/rahul445/">Rahul Shetty</a>
 
 ------------------------------------------------------------------------------------------------------------------------
-Learnings from Course : 
-[UDEMY_Programming_Language_RS_Javascript.pdf](https://github.com/rajatt95/Javascript_RS/files/8687107/UDEMY_Programming_Language_RS_Javascript.pdf)
+# Learnings from Course : [UDEMY_Programming_Language_RS_Javascript.pdf](https://github.com/rajatt95/Javascript_RS/files/8687107/UDEMY_Programming_Language_RS_Javascript.pdf)
 
 ------------------------------------------------------------------------------------------------------------------------
 
